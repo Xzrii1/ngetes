@@ -5,7 +5,7 @@ const {
   useMultiFileAuthState
 } = require("@whiskeysockets/baileys")
 
-const OWNER = "628xxxxxxxxxx"
+const OWNER = "6282227040946"
 
 let db = {}
 
